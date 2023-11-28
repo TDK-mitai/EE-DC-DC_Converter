@@ -66,23 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WRSVLPJT
 
 [Document2]
-DocumentPath=C:\Users\Ravi Kumar\OneDrive - TDK Management Services GmbH - Mitai\Dokumente\DC_buck_3.3V.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JQQLBYDS
-
-[Document3]
 DocumentPath=..\DC_buck_converter_3.3V_OP..SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -98,6 +81,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRSVLPJT
+
+[Document3]
+DocumentPath=..\DC_buck_3.3V.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WSYIUMTJ
 
 [Configuration1]
 Name=Sources
